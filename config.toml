@@ -1,6 +1,6 @@
 baseURL = 'https://iamsharpe.github.io/'
 locale = 'zh-cn'
-title = '谢鹏的个人博客'
+title = '谢鹏个人博客'
 theme = "PaperMod"
 
 [params]
