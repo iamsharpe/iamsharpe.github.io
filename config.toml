@@ -7,3 +7,13 @@ theme = "PaperMod"
   author = "谢鹏"
   defaultTheme = "auto"
   homeInfoParams={Title="欢迎来到我的博客",Content="记录技术笔记与生活感悟"}
+
+[menu.main]
+  [[menu.main]]
+    name = "博客"
+    url = "posts/"
+    weight = 1
+  [[menu.main]]
+    name = "关于"
+    url = "about/"
+    weight = 2
